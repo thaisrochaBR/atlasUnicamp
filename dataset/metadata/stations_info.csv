@@ -1,0 +1,4 @@
+station_id;station_code;station_name;basin;sub_basin;river;state;municipality;operating_agency;latitude;longitude;altitude_m;drainage_area_km2
+INR;62752000;Invernada Recreio;Tiete River;Tiete-Jacare;Jacare-Pepira River;Sao Paulo;Bocaina;AES Tiete;-22:04:39;-48:29:03;450;1800
+GAV;62776800;Gaviao Peixoto;Tiete River;Tiete-Jacare;Jacare-Guacu River;Sao Paulo;Gaviao Peixoto;AES Tiete;-21:50:57;-48:29:30;459;2430
+FSB;62800000;Fazenda Sao Benedito;Tiete River;Tiete-Jacare;Ribeirao dos Porcos;Sao Paulo;Ibitinga;AES Tiete;-21:41:59;-49:00:38;405;2710

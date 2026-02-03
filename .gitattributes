@@ -1,0 +1,4 @@
+# Force consistent line endings for datasets
+*.csv text eol=lf
+*.txt text eol=lf
+*.md  text eol=lf
