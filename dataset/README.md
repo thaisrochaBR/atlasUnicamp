@@ -56,7 +56,7 @@ Users are encouraged to cite the dataset when used in scientific publications.
 The Python source code used for satellite image acquisition, preprocessing, and dataset generation is publicly available at:
 
 - GitHub repository: https://github.com/thaisrochaBR/atlasUnicamp 
-- Zenodo (Software): DOI_TO_BE_ADDED
+- Zenodo (Software): 10.5281/zenodo.18471113
 
 ---
 
@@ -69,7 +69,7 @@ Users are free to share and adapt the material, provided appropriate credit is g
 ## Citation
 If you use this dataset in your research, please cite it as:
 
-Rocha, T.; Angelis, A. F (2026). *Labeled GOES-16 Satellite Images for River Inflow and Discharge Estimation*. Zenodo. https://doi.org/XXXX
+Rocha, T.; Angelis, A. F (2026). *Labeled GOES-16 Satellite Images for River Inflow and Discharge Estimation*. Zenodo. https://doi.org/10.5281/zenodo.18471113
 
 ---
 
