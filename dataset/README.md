@@ -18,12 +18,14 @@ The dataset includes preprocessed satellite images, metadata describing monitori
 ---
 
 ## Data Structure
+```text
 dataset/
-├── images/ # GOES-16 satellite images
-├── labels/ # CSV files with inflow and discharge values
-├── metadata/ # Station metadata (stations_info.csv)
+├── images/          # GOES-16 satellite images
+├── labels/          # CSV files with inflow and discharge values
+├── metadata/        # Station metadata (stations_info.csv)
 └── README.md
 ---
+```text
 
 ## Station Metadata
 The file `stations_info.csv` provides metadata for the streamflow gauging stations used in this dataset, including:
