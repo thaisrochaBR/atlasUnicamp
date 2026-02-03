@@ -23,7 +23,6 @@ dataset/
 ├── labels/ # CSV files with inflow and discharge values
 ├── metadata/ # Station metadata (stations_info.csv)
 └── README.md
-
 ---
 
 ## Station Metadata
