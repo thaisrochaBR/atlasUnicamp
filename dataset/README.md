@@ -24,8 +24,8 @@ dataset/
 ├── labels/          # CSV files with inflow and discharge values
 ├── metadata/        # Station metadata (stations_info.csv)
 └── README.md
----
 ```
+---
 
 ## Station Metadata
 The file `stations_info.csv` provides metadata for the streamflow gauging stations used in this dataset, including:
